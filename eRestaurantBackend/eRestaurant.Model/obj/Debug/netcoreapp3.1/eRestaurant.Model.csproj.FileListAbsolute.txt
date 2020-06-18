@@ -1,0 +1,5 @@
+C:\Users\doguk\OneDrive\Masaüstü\e-restorant\eRestaurantBackend\eRestaurant\eRestaurant.Model\bin\Debug\netcoreapp3.1\eRestaurant.Model.deps.json
+C:\Users\doguk\OneDrive\Masaüstü\e-restorant\eRestaurantBackend\eRestaurant\eRestaurant.Model\bin\Debug\netcoreapp3.1\eRestaurant.Model.dll
+C:\Users\doguk\OneDrive\Masaüstü\e-restorant\eRestaurantBackend\eRestaurant\eRestaurant.Model\obj\Debug\netcoreapp3.1\eRestaurant.Model.csprojAssemblyReference.cache
+C:\Users\doguk\OneDrive\Masaüstü\e-restorant\eRestaurantBackend\eRestaurant\eRestaurant.Model\obj\Debug\netcoreapp3.1\eRestaurant.Model.AssemblyInfoInputs.cache
+C:\Users\doguk\OneDrive\Masaüstü\e-restorant\eRestaurantBackend\eRestaurant\eRestaurant.Model\obj\Debug\netcoreapp3.1\eRestaurant.Model.AssemblyInfo.cs
